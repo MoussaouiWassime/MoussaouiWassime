@@ -15,6 +15,8 @@ Si mon profil correspond à ce que vous cherchez, je serais ravi d’échanger.
 
 ## Compétences clés
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoussaouiWassime&layout=compact&theme=transparent)
+
 ### Développement
 - **Symfony**, **PHP**, **Doctrine**
 - **React**, **TypeScript**
