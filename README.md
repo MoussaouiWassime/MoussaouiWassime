@@ -1,16 +1,44 @@
-## Hi there 👋
+# Wassime Moussaoui — Développeur
 
-<!--
-**MoussaouiWassime/MoussaouiWassime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Étudiant en **2ᵉ année de BUT Informatique** à l’**IUT de Reims**, je me spécialise progressivement en **développement web** (front & back) à travers des projets académiques et personnels.
 
-Here are some ideas to get you started:
+## Recherche de stage
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Je suis actuellement à la recherche d’un **stage (minimum 8 semaines)** à partir du **7 avril**.  
+Si mon profil correspond à ce que vous cherchez, je serais ravi d’échanger.
+
+- Portfolio : https://www.moussaoui-wassime.com/
+- LinkedIn : https://www.linkedin.com/in/wassime-moussaoui-16ba94368/
+- Email : wassime.moussaoui@etudiant.univ-reims.fr
+
+---
+
+## Compétences clés
+
+### Développement
+- **Symfony**, **PHP**, **Doctrine**
+- **React**, **TypeScript**
+- **Tailwind CSS**
+- **C++**
+
+### Data / DevOps
+- **MySQL**
+- **Git**
+- **Docker**
+
+### Outils
+- **JetBrains**, **VS Code**
+- **Figma** (maquettes / UI)
+
+---
+
+## Mes projets
+
+- Resto'N — *Application de gestion de Restaurant*  
+  https://github.com/MoussaouiWassime/Resto-N
+
+- Portfolio — *Portfolio regroupant mes projets et compétences*  
+  https://github.com/MoussaouiWassime/portfolio-react
+
+- Messagerie C++ — *Application de messagerie instantané réalisé en C++*
+  https://github.com/MoussaouiWassime/QtChatSystem
